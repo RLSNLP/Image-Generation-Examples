@@ -6,3 +6,7 @@ Controlnet Pipeline https://github.com/huggingface/diffusers/blob/main/src/diffu
 代码解读：https://www.zhangzhenhu.com/aigc/controlnet.html
 
 ![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-17.png)
+
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-23.png)
+
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-28.png)
