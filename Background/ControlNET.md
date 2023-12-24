@@ -7,6 +7,6 @@ Controlnet Pipeline https://github.com/huggingface/diffusers/blob/main/src/diffu
 
 ![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-17.png)
 
-![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-23.png)
-
 ![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-28.png)
+
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-16_16-21-33.png)
