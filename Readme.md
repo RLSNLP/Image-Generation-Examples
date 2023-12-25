@@ -1,1 +1,12 @@
-
+<table>
+  <tr>
+    <td>Prompt</td>
+    <td>Lineart</td>
+    <td>Output</td>
+  </tr>
+  <tr>
+    <td>Prompt</td>
+    <td>![image]()</td>
+    <td>![image]()</td>
+  </tr>
+</table>
