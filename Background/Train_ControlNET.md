@@ -48,6 +48,8 @@ cv2.Canny的作用是把原始图片变成线性图。其中VAE不需要添加�
 在这个文件夹里，建立两个文件夹，分别存放原始图片和conditioning图片。还需要建立一个与文件夹同名的.py文件。  
 最后建立一个名为metadata的jsonl文件，具体格式如下所示。  
 
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-9_15-42-45.png)
+
 然后，你需要在.sh文件里指定对应的column名  
 
 然后，我们需要在与文件夹同名的.py文件里规定如何读取metadata的文件，否则transformers将按照默认格式读取，且只读取文字和一种图片。  
