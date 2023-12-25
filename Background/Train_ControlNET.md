@@ -47,3 +47,18 @@ cv2.Canny的作用是把原始图片变成线性图。其中VAE不需要添加�
 在.sh文件里面去掉--dataset_name这项参数，改为使用–train_data_dir。  
 在这个文件夹里，建立两个文件夹，分别存放原始图片和conditioning图片。还需要建立一个与文件夹同名的.py文件。  
 最后建立一个名为metadata的jsonl文件，具体格式如下所示。  
+
+然后，你需要在.sh文件里指定对应的column名  
+
+然后，我们需要在与文件夹同名的.py文件里规定如何读取metadata的文件，否则transformers将按照默认格式读取，且只读取文字和一种图片。  
+具体写法请参考HGX服务器上的 /cognitive_comp/sunrenliang/decorate_materials/ccd_dataset/ccd_dataset.py  
+特别注意两个地方，    
+
+一，参数里的dl_manager不能删除，否则报错  
+二，路径必须使用全局路径  
+实测在A100 80G上进行训练，Batchsize设置为2，Gradient设置为4，不使用xformer是可以正常训练和保存的。  
+
+以上是英文的Controlnet训练方法，如果text包含中文，则需要使用中文CLIP的stable-diffusion-xl:  
+/cognitive_comp/wuxiaojun/pretrained/pytorch/taiyi-ccd-diffusion-xl-base-1.0-2048/  
+需要注意，这个模型的文字输入长度是512，如果不进行任何改动会出现CUDA OOV的问题。  
+需要修改embedding的最大长度：  
