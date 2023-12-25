@@ -68,3 +68,8 @@ cv2.Canny的作用是把原始图片变成线性图。其中VAE不需要添加�
 /cognitive_comp/wuxiaojun/pretrained/pytorch/taiyi-ccd-diffusion-xl-base-1.0-2048/  
 需要注意，这个模型的文字输入长度是512，如果不进行任何改动会出现CUDA OOV的问题。  
 需要修改embedding的最大长度：  
+
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-9_17-4-37.png)
+
+其他节约显存或内存的方法包括：使用xformers，使用8bitadam等等，https://github.com/huggingface/diffusers/tree/main/examples/controlnet  
+值得注意的是，如果使用deepspeed，存储模型时会遇到bug无法存储，它在官方也说明了加入deepspeed plugin目前还只是一种测试。
