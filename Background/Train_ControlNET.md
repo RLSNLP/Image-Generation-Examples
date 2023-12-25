@@ -58,6 +58,8 @@ cv2.Canny的作用是把原始图片变成线性图。其中VAE不需要添加�
 具体写法请参考HGX服务器上的 /cognitive_comp/sunrenliang/decorate_materials/ccd_dataset/ccd_dataset.py  
 特别注意两个地方，    
 
+![image](https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-9_15-51-57.png)
+
 一，参数里的dl_manager不能删除，否则报错  
 二，路径必须使用全局路径  
 实测在A100 80G上进行训练，Batchsize设置为2，Gradient设置为4，不使用xformer是可以正常训练和保存的。  
