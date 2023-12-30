@@ -1,6 +1,6 @@
 I was involved in a project to generate interior design images using line sketches (Lineart) and Prompt. I used ControlNet for training. The first table below shows the generated design images for a residential entrance, a gym and a residential lobby. The second table below provides additional details. As the training steps vary, the generated design images also undergo changes.
 
-I made some notes (in Chinese) about the knowledge of generating images using the diffusion model, see Backgrounds.
+I also made some notes (in Chinese) about the knowledge of generating images using the diffusion model, see the Background folder.
 
 <table>
   <tr>
