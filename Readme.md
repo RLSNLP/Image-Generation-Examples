@@ -27,16 +27,25 @@
   </tr>
   <tr>
     <td>0</td>
-    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="500"> </td>
 
   </tr>
   <tr>
     <td>2000</td>
-    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/2000.png" width="500"> </td>
 
   </tr>
   <tr>
     <td>4000</td>
-    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/4000.png" width="500"> </td>
+  </tr>
+    <tr>
+    <td>2000</td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/2000.png" width="500"> </td>
+
+  </tr>
+  <tr>
+    <td>4000</td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/6000.png" width="500"> </td>
   </tr>
 </table>
