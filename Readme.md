@@ -7,7 +7,7 @@ I was involved in a project to generate interior design images using line sketch
     <td>Output</td>
   </tr>
   <tr>
-    <td>光线是室内光,墙面主要材质是木材,顶面主要材质是乳胶漆,主题是现代东方,空间软装材质是金属色+长凳,风格是现代东方风格,地面主要材质是地胶板,空间色调是冷色调,空间类型是住宅,具体空间描述是住宅公区,空间主要模块材质是金属屏风+艺术玻璃门,图片视角是一点透视</td>
+    <td>The lighting is ambient indoor lighting, with the main material for walls being wood, and the primary material for the ceiling being latex paint. The theme is modern Oriental, with soft furnishings featuring metal tones and benches. The style is modern Oriental, and the main material for the floor is rubber tiles. The color scheme for the space is cool tones, and the space type is residential, specifically described as the public area of a residence. The main modular materials for the space are metal screens and artistic glass doors, and the image perspective is a one-point perspective.</td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-37-1.png" width="1200"> </td>
   </tr>
