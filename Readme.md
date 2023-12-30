@@ -28,7 +28,7 @@ I was involved in a project to generate interior design images using line sketch
     <td>Image</td>
   </tr>
   <tr>
-    <td>0</td>
+    <td>0 (Lineart)</td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/2-1.png" width="500"> </td>
   </tr>
   <tr>
