@@ -12,11 +12,11 @@ I was involved in a project to generate interior design images using line sketch
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-37-1.png" width="1200"> </td>
   </tr>
   <tr>
-    <td>空间软装材质是健身器材,顶面主要材质是乳胶漆,地面主要材质是地胶板,空间主要模块材质是玻璃隔断+墙面灯带,空间色调是暖色调,图片视角是一点透视,墙面主要材质是石材,空间类型是住宅,具体空间描述是健身房,风格是现代轻奢风格</td>
+    <td>The soft furnishings in the space are composed of fitness equipment, with the main material for the ceiling being latex paint and the primary material for the floor being rubber tiles. The main modular materials for the space are glass partitions and wall-mounted light strips. The color scheme for the space is warm tones, and the image perspective is a one-point perspective. The main material for the walls is stone, and the space type is residential, specifically described as a gym. The style is modern luxury.</td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/2-1.png" width="1200"> </td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/2-2.png" width="1200"> </td>
   </tr>
-  <td>空间功能是入口大堂,空间类型是住宅,风格是现代轻奢风格,具体空间描述是住宅公区,主题是现代轻奢风格,图片视角是一点透视,空间色调是暖色调</td>
+  <td>The space serves as the entrance lobby, categorized as residential, with a modern luxury style. Specifically, it is described as the public area of a residence, featuring a theme of modern luxury. The image perspective is a one-point perspective, and the color scheme for the space is warm tones.</td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/3-1.png" width="1200"> </td>
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/3-2.png" width="1200"> </td>
   </tr>
