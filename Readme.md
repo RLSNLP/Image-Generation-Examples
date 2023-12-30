@@ -19,3 +19,24 @@
     <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/3-2.png" width="1200"> </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Training steps</td>
+    <td>Image</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+
+  </tr>
+  <tr>
+    <td>4000</td>
+    <td><img src="https://github.com/RLSNLP/Image-Generation-Examples/blob/main/Background/images/image2023-11-15_15-36-50.png" width="1200"> </td>
+  </tr>
+</table>
