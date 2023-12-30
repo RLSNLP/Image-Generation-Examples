@@ -1,9 +1,4 @@
 <table>
-  <colgroup>
-    <col style="width: 20%;">
-    <col style="width: 40%;">
-    <col style="width: 40%;">
-  </colgroup>
   <tr>
     <td>Prompt</td>
     <td>Lineart</td>
