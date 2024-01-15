@@ -9,3 +9,5 @@ ALBEF的主要创新点为：
 一个好的多模态模型，图像编码器要足够大，同时多模态编码器也要大，文本编码器不需要特别大。
 Image encoder是ViT，Text Encoder是BERT的前六层，Multimodal Encoder是BERT的后六层。
 特别关注动量蒸馏，如果有需要就详细看。
+
+![image]()
